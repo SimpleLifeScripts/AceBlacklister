@@ -7,16 +7,16 @@ local allowedToBypass4 = false
 -- This is for ace perm "hillf.bypass"
 local blockedModels = { 
     "",
-    "bikelete",
-    "apc"
+    "model1",
+    "model2"
 }
 
 -- The above blacklists the listed vehicles for everyone. To bypass them you need to do add_ace blah blah blah
 
 -- This is for ace perm "hillf.bypass2"
 local blockedModels2 = {
-    "ccvolvo",
-    "bikelete"
+    "model1",
+    "model2"
 }
 
 -- This is for ace perm "hillf.bypass3"
